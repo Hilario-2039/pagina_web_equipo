@@ -1,2 +1,4 @@
-# pagina_web_equipo
-página web con mi equipo
+integrante 1: Nieves
+
+integrante 2: Frank
+
